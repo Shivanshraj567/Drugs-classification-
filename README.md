@@ -32,24 +32,6 @@ The dataset used for training and testing the model is stored in `drug200.csv`. 
 - scikit-learn
 - matplotlib
 
-## Usage
-1. Clone the repository:
-   ```
-   git clone https://github.com/your_username/ai-drug-classification.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd ai-drug-classification
-   ```
-3. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-4. Run the main script:
-   ```
-   python drug_classification.ipynb
-   ```
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
