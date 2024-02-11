@@ -1,7 +1,4 @@
 
-Here's a sample README file for your GitHub repository explaining the AI drug classification model:
-
----
 
 # AI Drug Classification Model
 
